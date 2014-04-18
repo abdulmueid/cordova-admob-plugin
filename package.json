@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "name": "com.google.admob",
+    "cordova_name": "Admob for Google Play Services for Android",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
